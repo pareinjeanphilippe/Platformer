@@ -16,9 +16,11 @@ L’objectif est d’apprendre à :
 ---
 
 ## ⚙️ Technologies
-- **Unity** 2022+  
+- **Unity 6 LTS**  
 - **C#**  
-- **Assets gratuits du Unity Asset Store**  
+- **Assets gratuits du Unity Asset Store :**  
+🎨 [Free Platform Game Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
+ 
 
 ---
 
