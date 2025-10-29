@@ -11,7 +11,7 @@ L’objectif est d’apprendre à :
 ---
 
 ## 📺 Chaîne YouTube
-👉 [UPLN – Formations et tutoriels Unity](https://www.youtube.com/@UPLN)
+👉 [UPLN – Formations et tutoriels Unity]([https://www.youtube.com/@UPLN](https://www.youtube.com/playlist?list=PLVcHD3Lkf4UbDiScdBnXHu9h9PC2pLDjN))
 
 ---
 
